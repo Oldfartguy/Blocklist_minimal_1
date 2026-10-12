@@ -3812,7 +3812,6 @@ a.optmnstr.com
 a.opus.pro
 a.orbsrv.com
 a.pacvue.com
-a.palenonperformance.com
 a.panaceo.com
 a.parfumsclub.de
 a.partner-versicherung.de
@@ -7335,7 +7334,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -10166,6 +10164,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -16488,7 +16487,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22410,6 +22408,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23435,7 +23434,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35354,7 +35352,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -49332,6 +49329,7 @@ data.amarant.nl
 data.americanexpress.test.ajo.adobe.com
 data.americanrotary.com
 data.americas.coca-cola.com
+data.amerisafemoving.com
 data.aminoxlab.com
 data.amper24.pl
 data.ampinvestments.amp.com.au
@@ -51192,7 +51190,6 @@ data.mypotenciaeducation.com
 data.myshow.de
 data.mysweetstitch.com
 data.mytrustmedical.com
-data.nal.usda.gov
 data.nanukweb.ca
 data.naomibeusink.nl
 data.naon.id
@@ -54547,7 +54544,6 @@ digitalfeedback.us.confirmit.com
 digitalfuture.g2afse.com
 digitalidentity.tech
 digitaliseringsinitiativet.se
-digitalixir.cleannfreshny.com
 digitaljungle.io
 digitalmarketing.smu.edu.sg
 digitalmarketing.thalesgroup.com
@@ -75116,6 +75112,7 @@ gtm.allaink.com
 gtm.allanpimenta.com.br
 gtm.allantracker.com
 gtm.allarmeponteggiromagna.com
+gtm.allcancesms.com.br
 gtm.allfitness.cl
 gtm.allinone.media
 gtm.alltomatiza.com
@@ -75429,7 +75426,6 @@ gtm.barnyoga.com
 gtm.barresoul.com
 gtm.barrigasemdiastase.com.br
 gtm.bartolobali.com
-gtm.barxmen.com
 gtm.bateranaigreja.com.br
 gtm.bathroomnation.co.uk
 gtm.bbqsandbuffets.co.uk
@@ -79741,6 +79737,7 @@ gtm.trenddodia.com
 gtm.trendingsphere.com
 gtm.trendshow.shop
 gtm.trendybaybd.com
+gtm.treningspartner.no
 gtm.trenovalab.com
 gtm.trescapital.com.br
 gtm.trhive.com
@@ -85123,6 +85120,7 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -127073,7 +127071,6 @@ octea.com
 octectlycopin.com
 octillion.tv
 octo25.me
-octoberads.space
 octoclick.com
 octolinkcom.me
 octonewjs.com
@@ -130057,7 +130054,6 @@ outstandingfrailabroad.com
 outstandingtelephone.pro
 outster.com
 outstream-telemetry.wemass.com
-outstreamoctober.store
 outtasknapaea.click
 outtechnicalspiteful.com
 outvierpeteca.cyou
@@ -134367,7 +134363,6 @@ pjrkspcllfpji.online
 pjrtamlmqaaoe.space
 pjsao.thegivenget.com
 pjskq.kendrascott.com
-pjsos.xyz
 pjstat.com
 pjtmj.miraiclinical.com
 pjtra.com
@@ -135559,7 +135554,6 @@ popunder.fpctraffic.com
 popunder.net
 popunder.smartcpx.com
 popunderjs.com
-popunderoctober.store
 popunderstar.com
 popunderz.com
 popup-static.unisender.com
@@ -137621,7 +137615,6 @@ ps.plasticossanpablo.com
 ps.popcash.net
 ps.premierstaff.com
 ps.thepsdentalstudio.com
-ps.wshareit.com
 ps1.reallifecam.to
 ps2.camcaps.to
 ps2.gamedl.qq.com
@@ -138140,7 +138133,6 @@ pulpirdiditsi.site
 pulpyads.com
 pulpybizarre.com
 pulqueemesa.com
-pulquesfarinas.guru
 puls-dz.com
 puls.lv
 pulsar.ebay.com
@@ -149515,6 +149507,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -150928,7 +150921,6 @@ santenetoping.cyou
 santo.neelchuri.com
 santosepedra.anunciojuridico.com.br
 santosmanagement.com
-santuao.xyz
 sanynouncem.org
 sanyotv.com
 sanywnnlhmual.space
@@ -163276,7 +163268,6 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
-smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -175424,7 +175415,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -188951,8 +188941,6 @@ support.tbllprem.com
 support.tenten.vn
 support.tib.eu
 support0.bigo.sg
-support2.flex.com
-support3.flex.com
 supportacs24.com
 supporters.redbankgreen.com
 supportiveinvoicevarnish.com
@@ -204561,6 +204549,7 @@ tzmsouoqvysag.site
 tzngbm.noodzboutique.com.au
 tznvsmuylzbfl.website
 tzovkp.aboutyou.at
+tzovwj.treningspartner.no
 tzp61mplc.com
 tzpiz.racecraftaus.com
 tzqdeqmlxhinp.site
@@ -215907,6 +215896,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -220131,6 +220121,7 @@ xqkkqz.puprwear.com
 xqkllzschtltc.site
 xqlby.jysk.ca
 xqmd2dzzvh.com
+xqmizurfyle.com
 xqmkjy.tdv.org
 xqncvy.edreams.com.mx
 xqnprasofdtjw.space
@@ -224707,7 +224698,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com

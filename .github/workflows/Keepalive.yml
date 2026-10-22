@@ -1,0 +1,50 @@
+name: Keepalive
+
+on:
+  schedule:
+    # Chạy mỗi giờ, phút thứ 00 (UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    name: Keepalive (chống khóa 60 ngày)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Append keepalive log (reset sau 3600 dòng)
+        run: |
+          touch .keepalive
+          LINES=$(wc -l < .keepalive)
+          TIME=$(TZ='Asia/Ho_Chi_Minh' date '+%A - %d/%m/%Y - %H:%M:%S (GMT+7)')
+
+          # Chuyển tên thứ sang tiếng Việt
+          case "$(TZ='Asia/Ho_Chi_Minh' date +%u)" in
+            1) DAY="Thứ Hai" ;;
+            2) DAY="Thứ Ba" ;;
+            3) DAY="Thứ Tư" ;;
+            4) DAY="Thứ Năm" ;;
+            5) DAY="Thứ Sáu" ;;
+            6) DAY="Thứ Bảy" ;;
+            7) DAY="Chủ Nhật" ;;
+          esac
+
+          TIME="$DAY - $(TZ='Asia/Ho_Chi_Minh' date '+%d/%m/%Y - %H:%M:%S') (GMT+7)"
+
+          if [ "$LINES" -ge 3600 ]; then
+            echo "$TIME [reset]" > .keepalive
+          else
+            echo "$TIME" >> .keepalive
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .keepalive
+          git diff --cached --quiet || git commit -m "keepalive $(TZ='Asia/Ho_Chi_Minh' date +%Y-%m-%d)"
+          git push
